@@ -17,12 +17,6 @@ This repository contains a comprehensive collection of BTech notes for Rajasthan
 
 ## Related
 
-Sure, here’s a "Related" section you can copy and paste into your GitHub repository:
-
----
-
-## Related
-
 - **RTU Syllabus**: [RTU Official Syllabus](http://www.rtu.ac.in/home/)(http://www.rtu.ac.in/home/)
   - Official syllabus and curriculum for RTU BTech courses.
 - **Online Learning Platforms**: 
