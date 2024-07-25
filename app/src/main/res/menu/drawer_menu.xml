@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="Semesters">
+        <menu>
+            <item
+                android:id="@+id/nav_semester1"
+                android:icon="@drawable/ic_arrow_right"
+                android:title="Semester 1" />
+            <item
+                android:id="@+id/nav_semester2"
+                android:icon="@drawable/ic_arrow_right"
+                android:title="Semester 2" />
+            <item
+                android:id="@+id/nav_semester3"
+                android:icon="@drawable/ic_arrow_right"
+                android:title="Semester 3" />
+            <item
+                android:id="@+id/nav_semester4"
+                android:icon="@drawable/ic_arrow_right"
+                android:title="Semester 4" />
+            <item
+                android:id="@+id/nav_semester5"
+                android:icon="@drawable/ic_arrow_right"
+                android:title="Semester 5" />
+            <item
+                android:id="@+id/nav_semester6"
+                android:icon="@drawable/ic_arrow_right"
+                android:title="Semester 6" />
+        </menu>
+    </item>
+    <item android:title="Contact Developer">
+        <menu>
+            <item
+                android:id="@+id/nav_telegram"
+                android:icon="@drawable/baseline_auto_fix_high_24"
+                android:title="Telegram" />
+            <item
+                android:id="@+id/nav_instagram"
+                android:icon="@drawable/baseline_auto_fix_high_24"
+                android:title="Instagram" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/action_contribute"
+        android:title="Contribute"
+        android:icon="@drawable/baseline_email_24"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+</menu>

@@ -1,0 +1,8 @@
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="your_desired_color">#3F51B5</color>
+    <color name="colorPrimaryDark">#3F51B5</color>
+    <color name="colorAccent">#3F51B5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
