@@ -14,7 +14,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone 
+git clone https://github.com/Lokeshsingh78/btech_notes_rtu.git
 Open the project in Android Studio.
 
 Build and run the project on an emulator or physical device.
