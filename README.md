@@ -2,7 +2,7 @@
 
 This repository contains a comprehensive collection of BTech notes for Rajasthan Technical University (RTU). The notes cover various subjects and semesters, providing valuable resources for students pursuing their Bachelor of Technology degree at RTU.
 
-## Contents:
+## Contents: 
 
 - Semester 1-6 Notes: Detailed notes for each semester, organized by subject.
 - Subject-Specific Notes: In-depth notes on individual subjects, including key concepts, formulas, and important topics.
