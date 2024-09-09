@@ -9,7 +9,7 @@ This repository contains a comprehensive collection of BTech notes for Rajasthan
  
  
 ## Acknowledgements
-
+ 
  - Open Source Tools
  - Online Lecturers
  - Online Communities and Forums
